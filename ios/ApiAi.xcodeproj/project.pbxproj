@@ -272,6 +272,7 @@
 					"$(SRCROOT)/node_modules/react-native/React/**",
 					"$(SRCROOT)/../react-native/React/**",
 					"$(SRCROOT)/ApiAI/**",
+					"$(SRCROOT)/../../../ios/Pods/Headers/Public/**",
 				);
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
@@ -297,6 +298,7 @@
 					"$(SRCROOT)/node_modules/react-native/React/**",
 					"$(SRCROOT)/../react-native/React/**",
 					"$(SRCROOT)/ApiAI/**",
+					"$(SRCROOT)/../../../ios/Pods/Headers/Public/**",
 				);
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
