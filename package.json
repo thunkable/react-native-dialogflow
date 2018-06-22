@@ -9,7 +9,7 @@
   "dependencies": {
     "jsrsasign": "^8.0.12",
     "react-native-speech-to-text-ios": "^1.0.4",
-    "react-native-voice": "github:thunkable/react-native-voice#hotfix"
+    "react-native-voice": "github:thunkable/react-native-voice#7340bd716b502694398ecdb7b1c89080e27a74a2"
   },
   "peerDependencies": {
     "react-native": ">=0.40.0"
